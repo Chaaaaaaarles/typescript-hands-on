@@ -1,0 +1,11 @@
+{
+  "name": "typescript-hands-on",
+  "version": "0.1.0",
+  "description": "typescript hands on",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "author": "Chaaaaaaarles<xuqi@i0011.com>",
+  "license": "MIT"
+}
